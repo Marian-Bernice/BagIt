@@ -1,4 +1,8 @@
 # BagIt
+Bag-It bag store sells diverse bags to both males and females in Ghana.
+They stock a rich collection from various well-known brands all over the world. The goal of the Bag-It website is to make handbags, luggage, backpacks, purses and other types of bags from various these brands, more accessible to customers in Ghana. Currently, the e-commerce bag store is only available in Ghana.
+
+
 Technologies Used
 Implementation
 For the project, we used various programming languages, including;
@@ -13,6 +17,7 @@ language used in the creation of documents that are displayed in web browsers. H
 
 Frameworks
 - Bootstrap – Bootstrap is an open-source front-end framework. It contains CSS, JavaScript and HTML based templates for responsive web development. Bootstrap helped us to get access to components that helped in creating elements like the navbar, the carousel, login and registration cards and most of the admin work, products display page, etc.
+
 
 Tools
 - PhpMyAdmin – It is an open-source administration tool used for MySQL. It was used to easily create the database for the project.
